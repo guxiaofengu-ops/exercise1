@@ -1,0 +1,8 @@
+services:
+  editor:
+    build: .
+    image: massey-text-editor:latest
+    environment:
+      DISPLAY: "${DISPLAY:-:0}"
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix

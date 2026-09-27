@@ -1,0 +1,11 @@
+editor:
+  fontFamily: "Monospaced"
+  fontSize: 14
+  fontColor: "#202124"
+  backgroundColor: "#FFFFFF"
+  windowWidth: 1100
+  windowHeight: 760
+
+authors:
+  - "Student One"
+  - "Student Two"
