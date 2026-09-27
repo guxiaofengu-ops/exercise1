@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='4.10.4' threshold='low' effort='max'><Error></Error><Project><SrcDir>C:\Users\顾\Desktop\massey_text_editor_assignment\src\main\java</SrcDir><SrcDir>C:\Users\顾\Desktop\massey_text_editor_assignment\target\generated-sources\annotations</SrcDir><SrcDir>C:\Users\顾\Desktop\massey_text_editor_assignment\src\test\java</SrcDir><SrcDir>C:\Users\顾\Desktop\massey_text_editor_assignment\target\generated-test-sources\test-annotations</SrcDir></Project></BugCollection>
