@@ -1,0 +1,10 @@
+Class,LOC,NOM,CyclomaticComplexity,EfferentCoupling
+"nz.ac.massey.editor.config.ConfigLoader",81,18,28,8
+"nz.ac.massey.editor.config.EditorConfig",32,4,2,1
+"nz.ac.massey.editor.io.RichDocumentReader",99,11,6,17
+"nz.ac.massey.editor.io.TextFileService",17,3,2,4
+"nz.ac.massey.editor.Main",105,15,16,17
+"nz.ac.massey.editor.pdf.PdfExporter",137,25,26,14
+"nz.ac.massey.editor.search.SearchService",25,4,7,3
+"nz.ac.massey.editor.syntax.SyntaxHighlighter",149,9,6,16
+"nz.ac.massey.editor.TextEditorFrame",373,50,24,37
